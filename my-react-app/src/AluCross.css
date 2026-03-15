@@ -1,0 +1,14 @@
+.alu-cross-grid{
+    display:grid;
+    grid-template-columns: repeat(3,150px);
+    gap:1px;
+}
+.alu-cross-btn{
+    width:150px;
+    height:150px;
+    border:1px solid black;
+}
+.alu-cross-grid img{
+    width: 100%;
+
+}

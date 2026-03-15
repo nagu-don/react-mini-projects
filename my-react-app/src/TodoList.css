@@ -1,0 +1,19 @@
+.todo-container{
+    background-color: rgb(79, 79, 79);
+}
+.todo-container h1{
+    color:white;
+    font-weight: 500;
+}
+.todo-container ol{
+    list-style-type:none;
+}
+.task-text{
+    width:500px;
+}
+.tasks{
+    font-size:1.5rem;
+    border: 2px solid white;
+    border-radius: 25px;
+    background-color: white;
+}

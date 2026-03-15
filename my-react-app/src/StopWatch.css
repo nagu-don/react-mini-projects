@@ -1,0 +1,11 @@
+.stopwatch-container{
+    background-image: url('./assets/background.webp');
+    background-position:center;
+    background-size:cover;
+    height:100vh;
+    background-attachment: fixed;
+}
+.stopwatch-container{
+    font-size:6rem;
+    text-shadow: 5px 5px 10px black;
+}
